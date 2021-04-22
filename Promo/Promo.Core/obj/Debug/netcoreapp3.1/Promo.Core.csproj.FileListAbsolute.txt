@@ -1,0 +1,12 @@
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\bin\Debug\netcoreapp3.1\Promo.Core.deps.json
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\bin\Debug\netcoreapp3.1\Promo.Core.runtimeconfig.json
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\bin\Debug\netcoreapp3.1\Promo.Core.runtimeconfig.dev.json
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\bin\Debug\netcoreapp3.1\Promo.Core.dll
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\bin\Debug\netcoreapp3.1\Promo.Core.pdb
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\obj\Debug\netcoreapp3.1\Promo.Core.AssemblyInfoInputs.cache
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\obj\Debug\netcoreapp3.1\Promo.Core.AssemblyInfo.cs
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\obj\Debug\netcoreapp3.1\Promo.Core.csproj.CoreCompileInputs.cache
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\obj\Debug\netcoreapp3.1\Promo.Core.dll
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\obj\Debug\netcoreapp3.1\Promo.Core.pdb
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\obj\Debug\netcoreapp3.1\Promo.Core.genruntimeconfig.cache
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Core\obj\Debug\netcoreapp3.1\Promo.Core.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\bin\Debug\netcoreapp3.1\Promo.Infrastructure.deps.json
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\bin\Debug\netcoreapp3.1\Promo.Infrastructure.dll
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\bin\Debug\netcoreapp3.1\Promo.Infrastructure.pdb
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\bin\Debug\netcoreapp3.1\Promo.Core.dll
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\bin\Debug\netcoreapp3.1\Promo.Core.pdb
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\obj\Debug\netcoreapp3.1\Promo.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\obj\Debug\netcoreapp3.1\Promo.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\obj\Debug\netcoreapp3.1\Promo.Infrastructure.AssemblyInfo.cs
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\obj\Debug\netcoreapp3.1\Promo.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\obj\Debug\netcoreapp3.1\Promo.Infrastructure.csproj.CopyComplete
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\obj\Debug\netcoreapp3.1\Promo.Infrastructure.dll
+C:\Users\Chinazor Oputa\Desktop\Stuff\Projects\Net\Promo\Promo.Infrastructure\obj\Debug\netcoreapp3.1\Promo.Infrastructure.pdb
